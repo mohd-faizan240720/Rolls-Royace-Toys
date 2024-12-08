@@ -97,7 +97,9 @@ header h1 {
     height: 4%;
     bottom: 0;
   }
-  
+   footer.sticky {
+    bottom: 0;  
+  }
   .product {
     border: 1px solid #ddd;
     padding: 20px;
